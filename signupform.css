@@ -62,3 +62,17 @@ h4 {
     height: 35vh;
     background-color: white;
 }
+
+h3 {
+    padding: 20px 0 0 30px;
+}
+
+form {
+    padding: 10px 0 0 30px;
+    
+}
+
+label {
+    
+    flex-direction: row;
+}
