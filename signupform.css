@@ -51,7 +51,7 @@ h2 {
 
 #header {
   height: 35vh;
-  background-color: azure;
+  background-color:#f0eeeb;
 }
 
 h4 {
@@ -75,4 +75,10 @@ form {
 label {
     
     flex-direction: row;
+}
+
+#footer {
+    height: 30vh;
+    background-color: #f0eeeb;
+    padding: 20px 0 0 30px;
 }
