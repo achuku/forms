@@ -37,13 +37,23 @@ img {
 
 h2 {
     top: 200px;
-    left: 150px;
+    left: 100px;
     position: absolute;
     font-size: 50px;
+    color: white;
 }
 
 .right {
     width: 70%;
     height: 100vh;
     background-color:chartreuse;
+}
+
+#header {
+  height: 35vh;
+  background-color: azure;
+}
+
+h4 {
+    padding: 150px 120px 80px 30px;
 }
