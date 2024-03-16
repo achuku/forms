@@ -69,7 +69,10 @@ h3 {
 
 form {
     padding: 10px 0 0 30px;
-    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap ;
+    max-width: 60%;
 }
 
 label {
