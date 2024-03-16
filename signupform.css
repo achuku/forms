@@ -78,7 +78,14 @@ label {
 }
 
 #footer {
-    height: 30vh;
+    height: 27vh;
     background-color: #f0eeeb;
     padding: 20px 0 0 30px;
+}
+
+button {
+    padding: 7px 30px 7px 30px;
+    border-radius: 3px;
+    color: white;
+    background-color: #596D48;
 }
